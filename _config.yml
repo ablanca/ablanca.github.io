@@ -1,0 +1,21 @@
+# Site settings
+title: Web Devine
+header-img: img/home-bg.png
+email: ashlie.blanca@gmail.com
+copyright_name: apoindext
+description: > # this means to ignore newlines until "baseurl:"
+  Code. Test. Run.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  apoindext
+learn_profile: apoindext
+email_username: ashlie.blanca@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
