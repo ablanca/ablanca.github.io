@@ -2,13 +2,13 @@
 title: Web Devine
 header-img: img/home-bg.png
 email: ashlie.blanca@gmail.com
-copyright_name: apoindext
+copyright_name: ablanca
 description: > # this means to ignore newlines until "baseurl:"
   Code. Test. Run.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
-github_username:  apoindext
-learn_profile: apoindext
+github_username:  ablanca
+learn_profile: ablanca
 email_username: ashlie.blanca@gmail.com
 
 # Build settings
